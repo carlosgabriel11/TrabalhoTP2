@@ -1,0 +1,109 @@
+# depslib dependency file v1.0
+1523922324 source:c:\users\usuario\desktop\vocab\dominios.cpp
+	"dominios.hpp"
+
+1523932300 c:\users\usuario\desktop\vocab\dominios.hpp
+	<string.h>
+	<iostream>
+
+1523932300 source:c:\users\usuario\desktop\vocab\entidades.cpp
+	"entidades.hpp"
+
+1523930052 source:c:\users\usuario\desktop\vocab\teste.cpp
+	"teste.hpp"
+	<stdexcept>
+
+1523931630 source:c:\users\usuario\desktop\vocab\main.cpp
+	"teste.hpp"
+	<locale.h>
+
+1523932300 c:\users\usuario\desktop\vocab\entidades.hpp
+	<string.h>
+	<iostream>
+	"dominios.hpp"
+	<locale>
+
+1523932376 c:\users\usuario\desktop\vocab\teste.hpp
+	<iostream>
+	<string.h>
+	"entidades.hpp"
+
+1522930168 source:c:\users\usuario\desktop\vocab\dominios2.cpp
+	"dominios2.hpp"
+
+1522930994 c:\users\usuario\desktop\vocab\dominios2.hpp
+	<string.h>
+	<iostream>
+
+1525111666 source:c:\users\usuario\desktop\vocab 2\dominios.cpp
+	"dominios.hpp"
+
+1525381921 c:\users\usuario\desktop\vocab 2\dominios.hpp
+	<stdexcept>
+	<string>
+	<iostream>
+
+1525110739 source:c:\users\usuario\desktop\vocab 2\entidades.cpp
+	"entidades.hpp"
+
+1525798439 c:\users\usuario\desktop\vocab 2\entidades.hpp
+	"dominios.hpp"
+	<string>
+
+1523932374 source:c:\users\usuario\desktop\vocab 2\teste.cpp
+	"teste.hpp"
+	<stdexcept>
+
+1525382020 c:\users\usuario\desktop\vocab 2\teste.hpp
+	"entidades.hpp"
+	<string>
+
+1525789088 source:c:\users\usuario\desktop\vocab 2\maaut.cpp
+	"MAAut.hpp"
+	"MAAut.hpp"
+
+1525738683 c:\users\usuario\desktop\vocab 2\maaut.hpp
+	<stdexcept>
+	"interfaces.hpp"
+	"dominios.hpp"
+
+1525480627 source:c:\users\usuario\desktop\vocab 2\main.cpp
+	<locale.h>
+	"MAAut.hpp"
+	"controladores.hpp"
+	"entidades.hpp"
+
+1525738683 source:c:\users\usuario\desktop\vocab 2\msaut.cpp
+
+1525832418 c:\users\usuario\desktop\vocab 2\interfaces.hpp
+	"dominios.hpp"
+	"resultados.hpp"
+	<stdexcept>
+
+1525832418 c:\users\usuario\desktop\vocab 2\resultados.hpp
+	"dominios.hpp"
+	"entidades.hpp"
+	<string>
+
+1525798441 source:c:\users\usuario\desktop\vocab 2\controladores.cpp
+	"controladores.hpp"
+	"stubs.hpp"
+
+1525798473 c:\users\usuario\desktop\vocab 2\controladores.hpp
+	"dominios.hpp"
+	"resultados.hpp"
+	"MAAut.hpp"
+
+1525738683 c:\users\usuario\desktop\vocab 2\stubs.hpp
+	"interfaces.hpp"
+	<string>
+	<stdexcept>
+	<iostream>
+	<typeinfo>
+
+1525738683 source:c:\users\usuario\desktop\vocab 2\stubs.cpp
+	"stubs.hpp"
+
+1525737887 c:\users\usuario\desktop\vocab 2\msaut.hpp
+	"stubs.hpp"
+
